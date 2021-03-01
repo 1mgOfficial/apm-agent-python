@@ -176,3 +176,8 @@ exclude:
     FRAMEWORK: asyncpg-newest
   - PYTHON_VERSION: python-3.6
     FRAMEWORK: asyncpg-newest
+  # sanic
+  - PYTHON_VERSION: pypy-3
+    FRAMEWORK: sanic-newest
+  - PYTHON_VERSION: pypy-3
+    FRAMEWORK: sanic-20.12
